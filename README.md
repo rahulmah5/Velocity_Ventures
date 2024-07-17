@@ -24,7 +24,7 @@ Welcome to the Velocity Ventures EPOS (Electronic Point of Sale) System. This Wi
 
 1. Clone the repository from GitHub:
     ```sh
-    [git clone https://github.com/yourusername/velocity-ventures-epos.git](https://github.com/rahulmah5/Velocity_Ventures.git)
+  https://github.com/rahulmah5/Velocity_Ventures.git
     ```
 2. Open the solution file `velocityVentures.sln` in Visual Studio.
 3. Build the solution to restore any missing dependencies.
