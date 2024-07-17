@@ -65,11 +65,6 @@ Welcome to the Velocity Ventures EPOS (Electronic Point of Sale) System. This Wi
 
 - **velocityVenturesForm_Load**: Loads the stock data from `Stock.txt` and initializes the form.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
 For any questions or support, please contact mahadevanrahul05@gmail.com
 
 Happy selling with Velocity Ventures EPOS System!
