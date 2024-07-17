@@ -1,0 +1,19 @@
+Date Generated- 12-22-2023		Time Generated- 12:05:52 
+
+
+Sports Products	K	XS	S	M	L	XL
+
+
+Running Shoe	11	99	39	54	52	4
+Sports Jersey	72	24	31	64	27	17
+Dumbbell	43	9	87	45	17	18
+Backpack	88	31	34	5	8	40
+Swimsuit	56	8	37	9	26	59
+Surfboard	74	50	73	63	84	52
+Basketball	11	43	6	66	25	69
+Football	58	23	69	94	49	38
+Bicycles	55	22	90	67	42	52
+Golf club	61	81	42	74	48	59
+Skateboard	21	90	46	30	67	80
+Snowboard	70	68	60	73	90	15
+Fishing Rod	62	86	99	7	80	90
